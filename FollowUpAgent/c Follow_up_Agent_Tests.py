@@ -1,6 +1,6 @@
 # test_follow_up_agent.py
 """
-Unit tests for the Follow-Up Agent implementation.
+Unit tests for the Follow-Up Agent implementation
 """
 
 import unittest
