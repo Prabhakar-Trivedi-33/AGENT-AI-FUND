@@ -1,5 +1,5 @@
 # follow_up_agent_prompt.py
-"""
+""" 
 Prompt generation and response parsing for the Follow-Up Agent.
 
 This module contains functions to generate prompt templates for the LLM and 
